@@ -41,6 +41,8 @@ There are two ways we recommend you create a new Maven project:
 # "Generate a project from a Maven archetype":#generate_project_from_archetype
 # "Create and customize a project using JBoss Forge":#create_project_using_forge
 
+Booyahhh
+
 By far, "JBoss Forge":forge_home is the simpler approach, but this guide will offer both options in the event you aren't ready to adopt JBoss Forge. Select from one of the two options above to jump to the instructions.
 
 p(info). %If you already have a Maven project, you can use this section as review to ensure you have the proper dependencies before moving on.%
